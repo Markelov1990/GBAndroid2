@@ -11,4 +11,10 @@
     <string name="key_9">9</string>
     <string name="key_0">0</string>
     <string name="key_dot">.</string>
+    <string name="key_plus">+</string>
+    <string name="key_minus">-</string>
+    <string name="key_multiply">*</string>
+    <string name="key_result">=</string>
+    <string name="key_divide">/</string>
+    <string name="key_enter">Вводимый текст</string>
 </resources>
